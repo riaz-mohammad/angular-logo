@@ -1,0 +1,25 @@
+:host{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+  height: 100%;
+  clip-path: polygon(50% 0, 100% 20%, 95% 70%, 50% 100%, 5% 70%, 0 20%);
+  background: rgb(190,2,2);
+  background: linear-gradient(270deg, rgb(177, 3, 3) 50%, rgb(255, 0, 0) 50%);
+  position: relative;
+  z-index: 100;
+}
+
+h1{
+  font-size: 100px;
+  margin-top: 50px;
+}
+  
+  
+
+  
+
+
+  
+  
